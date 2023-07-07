@@ -69,3 +69,4 @@ function getArea(shape) {
             return _defaultForShape;
     }
 }
+//# sourceMappingURL=detection.js.map

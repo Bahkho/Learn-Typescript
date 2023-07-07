@@ -44,3 +44,4 @@ class SubUser extends User {
 }
 const akorede = new User("a@a.com", "akorede", "akorede02");
 // akorede.name;
+//# sourceMappingURL=index.js.map

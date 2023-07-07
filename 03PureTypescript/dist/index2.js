@@ -24,3 +24,4 @@
 //     console.log("story was created");
 //   }
 // }
+//# sourceMappingURL=index2.js.map

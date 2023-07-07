@@ -38,3 +38,4 @@ class Sellable {
         this.Cart.push(products);
     }
 }
+//# sourceMappingURL=myGeneric.js.map
